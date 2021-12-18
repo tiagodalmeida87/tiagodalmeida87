@@ -29,7 +29,9 @@
     <a href="https://www.instagram.com/tiagodalmeida87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://t.me/tiagodalmeida87" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href = "mailto:tiagodalmeida87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+
+ ![Snake animation](https://github.com/tiagodalmeida87/tiagodalmeida87/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
   ##
   
