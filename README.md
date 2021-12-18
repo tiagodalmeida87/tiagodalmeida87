@@ -1,4 +1,4 @@
-H1> Olá! Eu sou o Tigo Almeida ✌️</H1>  
+<H1> Olá! Eu sou o Tigo Almeida ✌️</H1>  
 <H4> 📚 Estudante de Sistema de Informação </H4>
 <H4> ❤ Apaixonado e curioso pelo mundo das tecnologias </H4>
 
@@ -34,6 +34,6 @@ H1> Olá! Eu sou o Tigo Almeida ✌️</H1>
   ##
   
 <div align="center">
-  <p align="center"> Obrigado pela visita!👋 </p>  
+  <p align="center"> Obrigado pela visita! 👋👋 </p>  
   <p> <img align="center" src="https://profile-counter.glitch.me/tiagodalmeida87/count.svg" /></p>
 </div>
