@@ -1,4 +1,4 @@
-<H1> Olá! Eu sou o Tigo Almeida ✌️</H1>  
+<H1> Olá! Eu sou o Tiago Almeida ✌️</H1>  
 <H4> 📚 Estudante de Sistema de Informação </H4>
 <H4> ❤ Apaixonado e curioso pelo mundo das tecnologias </H4>
 
