@@ -1,14 +1,8 @@
 <H1> Olá! Eu sou o Tiago Almeida ✌️</H1>  
-<H4> 📚 Estudante de Sistema de Informação </H4>
+<H4> 📚 Graduado em Sistema de Informação </H4>
 <H4> ❤ Apaixonado e curioso pelo mundo das tecnologias </H4>
 
   ##
-
-<div align="center">
-  <a href="https://github.com/tiagodalmeida87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagodalmeida87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalmeida87&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
@@ -35,5 +29,4 @@
   
 <div align="center">
   <p align="center"> Obrigado pela visita! 👋👋 </p>  
-  <p> <img align="center" src="https://profile-counter.glitch.me/tiagodalmeida87/count.svg" /></p>
 </div>
